@@ -1,7 +1,3 @@
-/*
- * $env:SLACKIFY_APP_TOKEN="xoxb-206192232134-559147467091-GNnTZczoxXPaN0AVgjhGpQVM"
- */
-
 package main
 
 import (
