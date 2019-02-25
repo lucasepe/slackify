@@ -2,7 +2,12 @@
 
 > Upload files to your preferred Slack channels using CLI or pipe in stdin
 
-![Slackify](./slackify.gif)
+
+# Download Binaries
+
+https://github.com/lucasepe/slackify/releases
+
+![Slackify](./slackify.gif | width=720)
 
 ```
 slackify 
@@ -59,4 +64,8 @@ Once you have the access token you can pass it to slackify in two ways:
 
 - pass it to slackify as parameter 
   - option: `--token="xoxb-................"`
+
+# Download Binaries
+
+https://github.com/lucasepe/slackify/releases
 
