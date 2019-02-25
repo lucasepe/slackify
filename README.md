@@ -7,7 +7,7 @@
 
 https://github.com/lucasepe/slackify/releases
 
-![Slackify](./slackify.gif | width=720)
+![Slackify](./slackify.gif)
 
 ```
 slackify 
