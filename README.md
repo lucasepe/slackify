@@ -55,7 +55,7 @@ Once you have the access token you can pass it to slackify in two ways:
 
 - define an environment variable `SLACKIFY_APP_TOKEN`
   - windows (powershell): `$env:SLACKIFY_APP_TOKEN="xoxb-.............."`
-  - linux : `export SLACKIFY_APP_TOKEN=xoxb-..............`
+  - linux/osx : `export SLACKIFY_APP_TOKEN=xoxb-..............`
 
 - pass it to slackify as parameter 
   - option: `--token="xoxb-................"`
