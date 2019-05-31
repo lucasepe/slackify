@@ -9,8 +9,10 @@ import (
 	"os"
 )
 
+// ApiURL url related to Slack Upload API
 const ApiURL = "https://slack.com/api/files.upload"
 
+// UploadResponse response from upload call
 type UploadResponse struct {
 	Success bool   `json:"ok"`
 	Error   string `json:"error,omitempty"`
@@ -22,6 +24,7 @@ type UploadResponse struct {
 	} `json:"file,omitempty"`
 }
 
+// Upload do a multipart upload request
 func Upload(client *http.Client, url string, values map[string]io.Reader) (result UploadResponse, err error) {
 	// Prepare a form that you will submit to that URL.
 	var b bytes.Buffer
