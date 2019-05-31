@@ -1,6 +1,6 @@
 # Slackify
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/lucasepe/slackify)](https://goreportcard.com/report/github.com/lucasepe/slackify)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lucasepe/slackify)](https://goreportcard.com/report/github.com/lucasepe/slackify) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
 
 > Upload files to your preferred Slack channels using CLI or pipe in stdin
 
