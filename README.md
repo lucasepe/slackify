@@ -5,9 +5,9 @@
 > Upload files to your preferred Slack channels using CLI or pipe in stdin
 
 
-# Download Binaries
-
-https://github.com/lucasepe/slackify/releases
+- Free [open source](https://github.com/lucasepe/slackify) software
+- Works on [Linux](https://github.com/lucasepe/slackify/releases/download/v1.0.0/slackify-linux-amd64), [Mac OSX](https://github.com/lucasepe/slackify/releases/download/v1.0.0/slackify-darwin-amd64), [Windows](https://github.com/lucasepe/slackify/releases/download/v1.0.0/slackify-windows-amd64.exe)
+- Just a single portable binary file
 
 ![Slackify](./slackify.gif)
 
